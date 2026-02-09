@@ -72,4 +72,6 @@ This project aims to:
 ```bash
 pip install streamlit pandas matplotlib scikit-learn joblib
 
+##Live Demo
+https://indiacrimeriskintelligence-hayapc2gyg6abjophvdlrn.streamlit.app/
 
